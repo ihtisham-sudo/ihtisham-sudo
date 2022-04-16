@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/max/1200/1*HTC1oMKYwC7a8vUBsiplhw.gif)]
+[![MasterHead](https://miro.medium.com/max/1200/1*HTC1oMKYwC7a8vUBsiplhw.gif)] 
 <h1 align="center">Hi 👋, I'm Ihtisham-Sudo</h1>
 <h3 align="center">A Student, Blockchain Enthusiast, Self-taught Developer and Content Creator!!</h3>
 <img align="center" alt="Coding" width="400" src="https://www.lambdatest.com/blog/wp-content/uploads/2021/03/image4.gif">
