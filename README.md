@@ -1,47 +1,66 @@
 
-<h1 align="center">Hi 👋, I'm Ihtisham-Sudo</h1>
-<h3 align="center">A Student, Blockchain Enthusiast, Self-taught Developer and Content Creator!!</h3>
-<img align="center" alt="Coding" width="400" src="https://www.lambdatest.com/blog/wp-content/uploads/2021/03/image4.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ihtisham-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="ihtisham-sudo" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ihtisham-sudo" alt="ihtisham-sudo" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/ihtishamsudo" target="blank"><img src="https://img.shields.io/twitter/follow/ihtishamsudo?logo=twitter&style=for-the-badge" alt="ihtishamsudo" /></a> </p>
-
-- 🔭 I’m currently working on [Blockchain Project](https://github.com/ihtisham-sudo/Fully-Functional-Blockchain-with-UI)
-
-- 🌱 I’m currently learning **Solidity, Web 3.0, JavaScript.**
-
-- 👯 I’m looking to collaborate with **other content creators!!**
-
-- 🤝 I’m looking for help with [my Blockchain and Web 3.0 Projects!!](https://github.com/ihtisham-sudo/Fully-Functional-Blockchain-with-UI)
-
-- 👨‍💻 All of my projects are available at [https://github.com/ihtisham-sudo?tab=repositories](https://github.com/ihtisham-sudo?tab=repositories)
-
-- 📝 I regularly write articles on [https://hashnode.com/@ihtsham](https://hashnode.com/@ihtsham)
-
-- 💬 Ask me about **Web 3.0, Blockchain Technology, Crypto etc.**
-
-- 📫 How to reach me **ahsaanullah174@gmail.com**
-
-- ⚡ Fun fact **I love to play video games and Football**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/ihtishamsudo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ihtishamsudo" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ihtisham-ullah/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ihtisham-ullah/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/15710139/mr-2d" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/15710139/mr-2d" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ihtsham.ullah.174" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ihtsham.ullah.174" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/ihtsham.ullah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/ihtsham.ullah" height="30" width="40" /></a>
-<a href="https://hashnode.com/https://hashnode.com/@ihtsham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="https://hashnode.com/@ihtsham" height="30" width="40" /></a>
+<h1 align="center">Hi , I'm Ihtisham Ullah <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Blockchain+Enthusiast;Smart+Contract+Developer;Self+Taught+Developer;A+Student;&center=true&width=500&height=50"></a>
 </p>
+<hr/>
+<h5 align="center">I consider myself a passionate and dedicated individual who is always looking to learn new things and improve my skills. I am a self-taught developer with a passion for learning and a strong desire to learn new things. I am currently a student at the Islamia University Bahawalpur, where I am pursuing a degree in Software Engineering. I am also a Blockchain enthusiast and a Smart Contract Developer. Besides all this, I also have good communication skills because of my Blogging and Article Writing. I am always open up to collaborative projects. If you have any questions, feel free to contact me. My DM's are always open.
+</h5>
+<br/>
+<h4 align="center">
+If you're still reading me, why don't we connect?</h4>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://elixir-lang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elixir-lang/elixir-lang-icon.svg" alt="elixir" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/ProgrammingWithObjectiveC/Introduction/Introduction.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apple_objectivec/apple_objectivec-icon.svg" alt="objectivec" width="40" height="40"/> </a> <a href="https://www.perl.org/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-perl.svg" alt="perl" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.ruby-lang.org/en/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-plain.svg" alt="rust" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+<div style="text-align:center;">
+<a href="https://www.instagram.com/ihtsham.ullah/">
+  <img align="left" alt="Awais's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://www.linkedin.com/in/ihtisham-ullah/">
+  <img align="right" alt="Awai's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
+</a>
+	</div>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ihtisham-sudo&show_icons=true&locale=en&layout=compact" alt="ihtisham-sudo" /></p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ihtisham-sudo8&label=Profile%20views&color=0e75b6&style=plastic" alt="ihtisham-sudo" /> </p>
+<!-- <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=ihtisham-sudo.ihtisham-sudo"></p> -->
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ihtisham-sudo&show_icons=true&locale=en" alt="ihtisham-sudo" /></p>
+## 🔥 Streak Stats
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ihtisham-sudo&theme=algolia" alt="ihtisham-sudo"  /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ihtisham-sudo&" alt="ihtisham-sudo" /></p>
+## 💻 GitHub Profile Stats:
+
+  <br/>
+  <p align="center">
+	<a href="https://github.com/anuraghazra/github-readme-stats"><img alt="ihtisham-sudo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=ihtisham-sudo&show_icons=true&count_private=true&theme=algolia" height="192px"/></a>
+<br/>
+  &nbsp;
+	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ihtisham-sudo&show_icons=true&locale=en&layout=compact&theme=algolia" alt="ihtisham-sudo" height="192px"/>
+  <br/>
+  </p>
+
+
+<br/>
+i am also an open-source enthusiast. i learned a lot from the open-source community and would love to contribute to the open-source community.
+
+
+<div style="text-align:center;"><img align="center" height="100%" width="100%" alt="GIF" src="https://www.lambdatest.com/blog/wp-content/uploads/2021/03/image4.gif"  /></div>
+
+## ⚡ GitHub Activity Graph:
+  <br/>
+   <a href="https://github.com/HxnDev"><img alt="ihtisham-sudo's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ihtisham-sudo&custom_title=ihtisham%20sudo's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+## Technologies
+
+<div style="display: inline-block"><br />
+    <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+    <img align="center" alt="REACTJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img align="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+    <img align="center"alt="GIT" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+    <img align="center"alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />  
+    <img align="center"alt="Solidity" src="https://img.shields.io/badge/solidity-%3E%3D%200.6.8-lightgrey?style=for-the-badge&logo=python&logoColor=white" />   
+    <img align="center"alt="C++" src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white" />  
+    <img align="center"alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />      
+</div>
+
+
