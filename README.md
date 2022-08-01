@@ -7,7 +7,7 @@
 <h5 align="center">I consider myself a passionate and dedicated individual who is always looking to learn new things and improve my skills. I am a self-taught developer with a passion for learning and a strong desire to learn new things. I am currently a student at the Islamia University Bahawalpur, where I am pursuing a degree in Software Engineering. I am also a Blockchain enthusiast and a Smart Contract Developer. Besides all this, I also have good communication skills because of my Blogging and Article Writing. I am always open up to collaborative projects. If you have any questions, feel free to contact me. My DM's are always open.
 </h5>
 
-- 🔭 I’m currently working on(https://github.com/ihtisham-sudo/Fully-Functional-Blockchain-with-UI)
+- 🔭 I’m currently working on[Blockchain Project]: (https://github.com/ihtisham-sudo/Fully-Functional-Blockchain-with-UI)
 
 - 🌱 I’m currently learning **Solidity, Web 3.0, JavaScript.**
 
