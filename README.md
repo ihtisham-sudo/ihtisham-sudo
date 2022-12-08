@@ -41,7 +41,7 @@ If you're still reading me, why don't we connect?</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ihtisham-sudo8&label=Profile%20views&color=0e75b6&style=plastic" alt="ihtisham-sudo" /> </p>
 <!-- <p align="center"><img src="https://visitor-badge.glitch.me/badge?page_id=ihtisham-sudo.ihtisham-sudo"></p> -->
 
-<!-- ## 🔥 Streak Stats
+## 🔥 Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ihtisham-sudo&theme=algolia" alt="ihtisham-sudo"  /></p>
 
 ## 💻 GitHub Profile Stats:
@@ -56,7 +56,7 @@ If you're still reading me, why don't we connect?</h4>
   </p>
 
 
-<br/> -->
+<br/>
 i am also an open-source enthusiast. i learned a lot from the open-source community and would love to contribute to the open-source community.
 
 
