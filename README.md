@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate with **other content creators!!**
 
-- 🤝 I’m looking for help with [my Blockchain and Web 3.0 Projects!!](https://github.com/ihtisham-sudo/Fully-Functional-Blockchain-with-UI)
+- 🤝 I’m looking for help with [My Blockchain and Web 3.0 Projects!!](https://github.com/ihtisham-sudo/Fully-Functional-Blockchain-with-UI)
 
 - 👨‍💻 All of my projects are available at [Repositories](https://github.com/ihtisham-sudo?tab=repositories)
 
