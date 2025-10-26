@@ -16,7 +16,6 @@ I also contribute to the blockchain security community through written articles,
 -   **Featured Research Article:** [Why Some Smart Contract Audits Are So Expensive (2025 Edition)](https://scauditstudio.com/blog/Why-Some-Smart-Contract-Audits-Are-So-Expensive-(2025-Edition)) - An in-depth analysis of audit costs, methodologies, and market benchmarks.
 
 ## Notable Audit Contests & Engagements
-Here is the table reformatted to match your example:
 
 | Project | Protocol Type | Platform | Language | Result | Links |
 |:---|:---|:---|:---|:---|:---|
