@@ -22,7 +22,7 @@ I also contribute to the blockchain security community through written articles,
 | Octant-v2 core | Public Goods Funding | Cantina | Solidity | Top Five🏅with 1 Medium | [Competition](https://cantina.xyz/code/917d796b-48d0-41d0-bb40-be137b7d3db5) |
 | Acala | Cross-chain DeFi | Code4rena | Solidity & Rust | Top Five🏅with 1 High | [Bug](https://github.com/code-423n4/2024-03-acala-findings/issues/16) |
 | Plume Network | RWA Layer 2 | Immunefi | Solidity | 3 Highs & 1 Low | [Competition](https://immunefi.com/audit-competition/plume-network-attackathon/information/) |
-| Alchemix v3 | DeFi / Lending | Immunefi | Solidity | 1 High, 1 Medium & 2 Lows | [Competition](https://immunefi.com/audit-competition/alchemix-v3-audit-competition/information) |
+| Alchemix v3 | DeFi / Lending | Immunefi | Solidity | 2 Highs & 2 Lows | [Competition](https://immunefi.com/audit-competition/alchemix-v3-audit-competition/information) |
 | Crestal Network | Infrastructure Marketplace| Sherlock | Solidity | 1-Impactful High | [Bug](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/578) |
 | Succinct-network | ZK Prover Network | Cantina | Solidity | Top 15 with 1 Medium | [Competition](https://cantina.xyz/competitions/bd882748-077e-4e55-853f-f8df70109dbb) |
 | Symmio | DeFi / Derivatives | Sherlock | Solidity | 1 Medium | [Bug](https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging/issues/488) |
