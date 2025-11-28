@@ -23,14 +23,14 @@ I also contribute to the blockchain security community through written articles,
 | Acala | Cross-chain DeFi | Code4rena | Solidity & Rust | Top Five🏅with 1 High | [Bug](https://github.com/code-423n4/2024-03-acala-findings/issues/16) |
 | Plume Network | RWA Layer 2 | Immunefi | Solidity | 3 Highs & 1 Low | [Competition](https://immunefi.com/audit-competition/plume-network-attackathon/information/) |
 | Alchemix v3 | DeFi / Lending | Immunefi | Solidity | 2 Highs & 2 Lows | [Competition](https://immunefi.com/audit-competition/alchemix-v3-audit-competition/information) |
-| Crestal Network | Infrastructure Marketplace| Sherlock | Solidity | 1 Impactful High | [Bug](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/578) |
+| Crestal Network | Infrastructure Marketplace| Sherlock | Solidity | 1 High | [Bug](https://github.com/sherlock-audit/2025-03-crestal-network-judging/issues/578) |
 | Succinct-network | ZK Prover Network | Cantina | Solidity | Top 15 with 1 Medium | [Competition](https://cantina.xyz/competitions/bd882748-077e-4e55-853f-f8df70109dbb) |
-| Symmio | DeFi / Derivatives | Sherlock | Solidity | 1 Medium | [Bug](https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging/issues/488) |
-| Boost | Incentive Protocol | Sherlock | Solidity | 1 Medium | [Bug](https://github.com/sherlock-audit/2024-06-boost-aa-wallet-judging/issues/241) |
-| Winnables | Raffle Protocol | Sherlock | Solidity | 1 High | [Bug](https://github.com/sherlock-audit/2024-08-winnables-raffles-judging/issues/431) |
-| Maia DAO - Ulysses | Cross-chain | Code4rena | Solidity | 1 Medium | [Bug](https://github.com/code-423n4/2023-09-maia-findings/issues/399) |
-| Maia DAO Ecosystem | DeFi / Omnichain | Code4rena | Solidity | 1 Medium | [Bug](https://github.com/code-423n4/2023-05-maia-findings/issues/583) |
-| Munchables | Gaming / NFT | Code4rena | Solidity | 1 High | [Bug](https://github.com/code-423n4/2024-07-munchables-findings/issues/198) |
+| Symmio | DeFi / Derivatives | Sherlock | Solidity |1 Medium | [Bug](https://github.com/sherlock-audit/2025-03-symm-io-stacking-judging/issues/488) |
+| Boost | Incentive Protocol | Sherlock | Solidity |1 Medium | [Bug](https://github.com/sherlock-audit/2024-06-boost-aa-wallet-judging/issues/241) |
+| Winnables | Raffle Protocol | Sherlock | Solidity |1 High | [Bug](https://github.com/sherlock-audit/2024-08-winnables-raffles-judging/issues/431) |
+| Maia DAO - Ulysses | Cross-chain | Code4rena | Solidity |1 Medium | [Bug](https://github.com/code-423n4/2023-09-maia-findings/issues/399) |
+| Maia DAO Ecosystem | DeFi / Omnichain | Code4rena | Solidity |1 Medium | [Bug](https://github.com/code-423n4/2023-05-maia-findings/issues/583) |
+| Munchables | Gaming / NFT | Code4rena | Solidity |1 High | [Bug](https://github.com/code-423n4/2024-07-munchables-findings/issues/198) |
 ## Certifications
 
 -   **Ackee School of Solana – Solana & Rust Development** | [On-chain Graduation NFT Transaction](https://solscan.io/tx/3YYEpgmMESSDcKGcSSkKe49Dc62GRdGHRh6tnoRt9bHTpG56NRsoYoLVYHsbBTbaxVoygBGg1BgzENNwKyPYEe1U)
