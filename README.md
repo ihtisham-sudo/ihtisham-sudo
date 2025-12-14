@@ -14,6 +14,11 @@ I actively engage in in-depth research of EVM protocols, their core algorithms, 
 I also contribute to the blockchain security community through written articles, published on the [SCAuditStudio blog](https://scauditstudio.com/blog).
 
 -   **Featured Research Article:** [Why Some Smart Contract Audits Are So Expensive (2025 Edition)](https://scauditstudio.com/blog/Why-Some-Smart-Contract-Audits-Are-So-Expensive-(2025-Edition)) - An in-depth analysis of audit costs, methodologies, and market benchmarks.
+## Private Audits
+
+| Project | Protocol Type | Language | Findings | Report Link |
+|:---|:---|:---|:---|:---|
+| [c8ntinuum](https://c8ntinuum.com/) | Launchpad | Solidity | 2C, 2H, 3M, 1L | - |
 
 ## Notable Audit Contests & Engagements
 
