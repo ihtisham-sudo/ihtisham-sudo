@@ -18,7 +18,8 @@ I also contribute to the blockchain security community through written articles,
 
 | Project | Protocol Type | Language | Findings | Report Link |
 |:---|:---|:---|:---|:---|
-| [c8ntinuum](https://c8ntinuum.com/) | Launchpad | Solidity | 2C, 2H, 3M, 1L | - |
+| [c8ntinuum](https://c8ntinuum.com/) | Launchpad | Solidity | 2C, 2H, 3M, 1L | [Report](https://github.com/ihtisham-sudo/private-audit-reports/blob/main/reports/c8ntinuumlaunchpad-dec-2025.pdf) |
+| [c8ntinuum](https://c8ntinuum.com/) | Bridge | Solidity/Rust | 1H, 3M, 1L | [Report](https://github.com/ihtisham-sudo/private-audit-reports/blob/main/reports/c8ntinuumbridge-dec-2025.pdf) |
 
 ## Notable Audit Contests & Engagements
 
