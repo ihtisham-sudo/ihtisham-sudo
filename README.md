@@ -21,7 +21,7 @@ I also contribute to the blockchain security community through written articles,
 | [c8ntinuum](https://c8ntinuum.com/) | Launchpad | Solidity | 2C, 2H, 3M, 1L | [Report](https://github.com/ihtisham-sudo/private-audit-reports/blob/main/reports/c8ntinuumlaunchpad-dec-2025.pdf) |
 | [c8ntinuum](https://c8ntinuum.com/) | Cross-chain | Solidity/Rust | 1H, 3M, 1L | [Report](https://github.com/ihtisham-sudo/private-audit-reports/blob/main/reports/c8ntinuumbridge-dec-2025.pdf) |
 | [Polymesh](https://polymesh.network/) | RWA Blockchain | Rust | 2H, 7M, 8L, 3 Info | [Pending]() |
-| [c8ntinuum](https://c8ntinuum.com/) | Bridge | Solidity | 1M, 3L | [Pending]() |
+| [c8ntinuum](https://c8ntinuum.com/) | Bridge | Solidity | 1M, 3L | [Report](https://github.com/ihtisham-sudo/private-audit-reports/blob/main/reports/c8ntinuumBridgeSol.pdf) |
 
 ## Notable Audit Contests & Engagements
 
