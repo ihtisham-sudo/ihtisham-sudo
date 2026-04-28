@@ -1,4 +1,4 @@
-# IhtishamSudo - Smart Contract Security Auditor & Researcher
+# IhtishamSudo - Smart Contract Security Auditor & OpSec Researcher
 
 I'm an independent Smart Contract Security Researcher and Auditor, dedicated to identifying vulnerabilities in decentralized applications and conducting in-depth analyses of EVM protocols. My expertise spans across Solidity and Rust, with a deep understanding of the EVM ecosystem. I specialize in auditing logic-heavy protocols, cross-chain systems, staking mechanisms, and various DeFi primitives, while also actively researching their core algorithms, designs, governance, timelocks, and multisig mechanisms.
 
