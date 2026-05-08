@@ -16,12 +16,18 @@ I also contribute to the blockchain security community through written articles,
 -   **Featured Research Article:** [Why Some Smart Contract Audits Are So Expensive (2025 Edition)](https://scauditstudio.com/blog/Why-Some-Smart-Contract-Audits-Are-So-Expensive-(2025-Edition)) - An in-depth analysis of audit costs, methodologies, and market benchmarks.
 ## Private Audits
 
-| Project | Protocol Type | Language | Findings | Report Link |
-|:---|:---|:---|:---|:---|
-| [c8ntinuum](https://c8ntinuum.com/) | Launchpad | Solidity | 2C, 2H, 3M, 1L | [Report](https://github.com/ihtisham-sudo/private-audit-reports/blob/main/reports/c8ntinuumlaunchpad-dec-2025.pdf) |
-| [c8ntinuum](https://c8ntinuum.com/) | Cross-chain | Solidity/Rust | 1H, 3M, 1L | [Report](https://github.com/ihtisham-sudo/private-audit-reports/blob/main/reports/c8ntinuumbridge-dec-2025.pdf) |
-| [Polymesh](https://polymesh.network/) | RWA Blockchain | Rust | 2H, 7M, 8L, 3 Info | [Pending]() |
-| [c8ntinuum](https://c8ntinuum.com/) | Bridge | Solidity | 1M, 3L | [Report](https://github.com/ihtisham-sudo/private-audit-reports/blob/main/reports/c8ntinuumBridgeSol.pdf) |
+| Project | Protocol Type | Language | Findings | Report Link | Review |
+| --- | --- | --- | --- | --- | --- |
+| [c8ntinuum](https://c8ntinuum.com/) | Launchpad | Solidity | 2C, 2H, 3M, 1L | [Report](https://github.com/ihtisham-sudo/private-audit-reports/blob/main/reports/c8ntinuumlaunchpad-dec-2025.pdf) | Solo |
+| [c8ntinuum](https://c8ntinuum.com/) | Cross-chain | Solidity/Rust | 1H, 3M, 1L | [Report](https://github.com/ihtisham-sudo/private-audit-reports/blob/main/reports/c8ntinuumbridge-dec-2025.pdf) | Solo |
+| [Polymesh](https://polymesh.network/) | RWA Blockchain | Rust | 2H, 7M, 8L, 3 Info | [Pending]() | [Blockapex](https://blockapex.io/) |
+| [c8ntinuum](https://c8ntinuum.com/) | Bridge | Solidity | 1M, 3L | [Report](https://github.com/ihtisham-sudo/private-audit-reports/blob/main/reports/c8ntinuumBridgeSol.pdf) | Solo |
+
+## Pre Audits 
+| Project | Protocol Type | Language | Findings | Report Link | Review |
+| --- | --- | --- | --- | --- | --- |
+| [Plether](https://plether.com/) | Perp Dex | Solidity | 2H, 7M, 1L, 18 Info | [Pending]() | [SC Audit Studio](https://scauditstudio.com/) |
+
 
 ## Notable Audit Contests & Engagements
 
