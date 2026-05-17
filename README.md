@@ -7,13 +7,6 @@ I am available for private smart contract security audits, testing, Research and
 -   **Twitter/X:** [@ihtishamSudo](https://twitter.com/ihtishamSudo)
 -   **Telegram:** [ihtishamsudo](https://t.me/ihtishamsudo)
 
-## Security Research & Articles
-
-I actively engage in in-depth research of EVM protocols, their core algorithms, designs, governance, timelocks, and multisig mechanisms. My research covers over 150 EVM protocols, which are categorized and analyzed on [SCAuditStudio.com](https://scauditstudio.com/categories).
-
-I also contribute to the blockchain security community through written articles, published on the [SCAuditStudio blog](https://scauditstudio.com/blog).
-
--   **Featured Research Article:** [Why Some Smart Contract Audits Are So Expensive (2025 Edition)](https://scauditstudio.com/blog/Why-Some-Smart-Contract-Audits-Are-So-Expensive-(2025-Edition)) - An in-depth analysis of audit costs, methodologies, and market benchmarks.
 ## Private Audits
 
 | Project | Protocol Type | Language | Findings | Report Link | Review |
@@ -47,6 +40,33 @@ I also contribute to the blockchain security community through written articles,
 | Maia DAO - Ulysses | Cross-chain | Code4rena | Solidity |1 Medium | [Bug](https://github.com/code-423n4/2023-09-maia-findings/issues/399) |
 | Maia DAO Ecosystem | DeFi / Omnichain | Code4rena | Solidity |1 Medium | [Bug](https://github.com/code-423n4/2023-05-maia-findings/issues/583) |
 | Munchables | Gaming / NFT | Code4rena | Solidity |1 High | [Bug](https://github.com/code-423n4/2024-07-munchables-findings/issues/198) |
+
+## Security Research & Articles
+
+I actively engage in in-depth research of EVM protocols, their core algorithms, designs, governance, timelocks, and multisig mechanisms. My research covers over 150 EVM protocols, which are categorized and analyzed on [SCAuditStudio.com](https://scauditstudio.com/categories).
+
+I also contribute to the blockchain security community through written articles, published on the [SCAuditStudio Blogs](https://scauditstudio.com/blog).
+
+### Articles & Blog Posts
+
+-   [How AI and Formal Verification can Revolutionize Smart Contract Security](https://github.com/SCAuditStudio/SCASArticles/blob/main/AI%20and%20Formal%20Verification%20In%20Defi.md)
+-   [Setting Up a Canton Network Validator Node: A Complete Guide](https://github.com/SCAuditStudio/SCASArticles/blob/main/CantonValidatorGuide.md)
+-   [Common Vulnerabilities in Daml Smart Contracts](https://github.com/SCAuditStudio/SCASArticles/blob/main/DamlSmartContractVulnerabilities.md)
+-   [DeFi's Vault Curation Revolution](https://github.com/SCAuditStudio/SCASArticles/blob/main/DefiVaultCuration.md)
+-   [ERC-8004: Building a Trust Layer for Agent Collaboration on Ethereum](https://github.com/SCAuditStudio/SCASArticles/blob/main/ERC-8004%3A%20Building%20a%20Trust%20Layer%20for%20Agent%20Collaboration%20on%20Ethereum.md)
+-   [A developer's guide from transition of EVM to Canton](https://github.com/SCAuditStudio/SCASArticles/blob/main/EVMtoCantonGuide.md)
+-   [How to Integrate EIP-7002: Smart Contract-Controlled Staking Withdrawals](https://github.com/SCAuditStudio/SCASArticles/blob/main/How%20to%20Integrate%20EIP-7002%3A%20Smart%20Contract-Controlled%20Staking%20Withdrawals.md)
+-   [How to Integrate EIP-7702: Empowering EOAs with Smart Account Features](https://github.com/SCAuditStudio/SCASArticles/blob/main/How%20to%20Integrate%20EIP-7702%3A%20Empowering%20EOAs%20with%20Smart%20Account%20Features.md)
+-   [Pre-Audits: Maximizing the Value of Your Smart Contract Audit](https://github.com/SCAuditStudio/SCASArticles/blob/main/Maximizing%20the%20Value%20of%20Your%20Smart%20Contract%20Audit.md)
+-   [What Happens to $45M of Morpho Debt When ETH Falls 20%?](https://github.com/SCAuditStudio/SCASArticles/blob/main/Morpho%20Risk%20Assessment.md)
+-   [OpSec Practices to not get "Rekt"](https://github.com/SCAuditStudio/SCASArticles/blob/main/OpSec%20Practices%20to%20Make%20Your%20Protocol%20Rekt%20Less.md)
+-   [Resolv Exploit: A Vault Curation Disaster](https://github.com/SCAuditStudio/SCASArticles/blob/main/Resolv%20Exploit%3A%20A%20Vault%20Curation%20Disaster.md)
+-   [Staking Smarter with Pectra: Implementing EIP-7251 Validator Consolidation](https://github.com/SCAuditStudio/SCASArticles/blob/main/Staking%20Smarter%20with%20Pectra%3A%20Implementing%20EIP-7251%20Validator%20Consolidation.md)
+-   [Timelocks: Unlocking Safety or Locking in Risk During Major Protocol Upgrades](https://github.com/SCAuditStudio/SCASArticles/blob/main/Timelocks%3A%20Unlocking%20Safety%20or%20Locking%20in%20Risk%20During%20Major%20Protocol%20Upgrades.md)
+-   [Post-Mortem on Venture Capital Failures In Web 3](https://github.com/SCAuditStudio/SCASArticles/blob/main/Web3GraveYard.md)
+-   [Why Some Smart Contract Audits Are So Expensive (2025 Edition)](https://github.com/SCAuditStudio/SCASArticles/blob/main/Why%20Some%20Smart%20Contract%20Audits%20Are%20So%20Expensive%20%282025%20Edition%29.md)
+-   [Launching a Token on Canton Network: A Beginner's Guide](https://github.com/SCAuditStudio/SCASArticles/blob/main/WritingTokenContractInDAML.md)
+
 ## Certifications
 
 -   **Ackee School of Solana – Solana & Rust Development** | [On-chain Graduation NFT Transaction](https://solscan.io/tx/3YYEpgmMESSDcKGcSSkKe49Dc62GRdGHRh6tnoRt9bHTpG56NRsoYoLVYHsbBTbaxVoygBGg1BgzENNwKyPYEe1U)
