@@ -16,6 +16,7 @@ I am available for private smart contract security audits, testing, Research and
 | [Polymesh](https://polymesh.network/) | RWA Blockchain | Rust | 2H, 7M, 8L, 3 Info | [Pending]() | [Blockapex](https://blockapex.io/) |
 | [c8ntinuum](https://c8ntinuum.com/) | Bridge | Solidity | 1M, 3L | [Report](https://github.com/ihtisham-sudo/private-audit-reports/blob/main/reports/c8ntinuumBridgeSol.pdf) | Solo |
 | [Multipli-MultToken](https://github.com/multipli-libs) | CCIP Token | Solidity | 1H, 2M, 5L, 3 Info | [Pending]() | [Shieldify](https://shieldify.org) |
+| [ETH STrategy](https://github.com/ethstrat) | Autonomous Treasury | Solidity | 1H, 5M, 2L, 4 Info | [Pending]() | [BailSec](https://bailsec.io/) |
 
 ## Pre Audits 
 | Project | Protocol Type | Language | Findings | Report Link | Review |
