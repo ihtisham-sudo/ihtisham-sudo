@@ -21,7 +21,7 @@ I am available for private smart contract security audits, testing, Research and
 ## Pre Audits 
 | Project | Protocol Type | Language | Findings | Report Link | Review |
 | --- | --- | --- | --- | --- | --- |
-| [Plether](https://plether.com/) | Perp Dex | Solidity | 2H, 7M, 1L, 18 Info | [Pending]() | [SC Audit Studio](https://scauditstudio.com/) |
+| [Plether](https://plether.com/) | Perp Dex | Solidity | 2H, 7M, 1L, 18 Info | [Report](https://github.com/SCAuditStudio/PublicSecurityReports/blob/main/Plether%20Pre%20Audit%20Report.pdf) | [SC Audit Studio](https://scauditstudio.com/) |
 
 
 ## Notable Audit Contests & Engagements
