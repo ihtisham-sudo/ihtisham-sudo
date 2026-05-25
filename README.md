@@ -15,8 +15,9 @@ I am available for private smart contract security audits, testing, Research and
 | [c8ntinuum](https://c8ntinuum.com/) | Cross-chain | Solidity/Rust | 1H, 3M, 1L | [Report](https://github.com/ihtisham-sudo/private-audit-reports/blob/main/reports/c8ntinuumbridge-dec-2025.pdf) | Solo |
 | [Polymesh](https://polymesh.network/) | RWA Blockchain | Rust | 2H, 7M, 8L, 3 Info | [Pending]() | [Blockapex](https://blockapex.io/) |
 | [c8ntinuum](https://c8ntinuum.com/) | Bridge | Solidity | 1M, 3L | [Report](https://github.com/ihtisham-sudo/private-audit-reports/blob/main/reports/c8ntinuumBridgeSol.pdf) | Solo |
-| [Multipli-MultToken](https://github.com/multipli-libs) | CCIP Token | Solidity | 1H, 2M, 5L, 3 Info | [Pending]() | [Shieldify](https://shieldify.org) |
+| [Multipli-MultToken](https://github.com/multipli-libs) | CCIP Token | Solidity | 1H, 1M, 2L, 3 Info | [Pending]() | [Shieldify](https://shieldify.org) |
 | [ETH STrategy](https://github.com/ethstrat) | Autonomous Treasury | Solidity | 1H, 5M, 2L, 4 Info | [Pending]() | [BailSec](https://bailsec.io/) |
+| [Colbx Finance]() | Escrow, EIP712 | Solidity | Soon | [Pending]() | [Shieldify](https://shieldify.org) |
 
 ## Pre Audits 
 | Project | Protocol Type | Language | Findings | Report Link | Review |
