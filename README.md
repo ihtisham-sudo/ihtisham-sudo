@@ -18,6 +18,7 @@ I am available for private smart contract security audits, testing, Research and
 | [Multipli-MultToken](https://github.com/multipli-libs) | CCIP Token | Solidity | 1H, 1M, 2L, 3 Info | [Pending]() | [Shieldify](https://shieldify.org) |
 | [ETH STrategy](https://github.com/ethstrat) | Autonomous Treasury | Solidity | 1H, 5M, 2L, 4 Info | [Pending]() | [BailSec](https://bailsec.io/) |
 | [Colbx Finance]() | Escrow, EIP712 | Solidity | Soon | [Pending]() | [Shieldify](https://shieldify.org) |
+| [Catalyst](https://github.com/catalystsystem) | Intent Based Bridge | Rust | Soon | [Pending]() | [Pashov Audit Group](https://www.pashov.com/) |
 
 ## Pre Audits 
 | Project | Protocol Type | Language | Findings | Report Link | Review |
