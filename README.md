@@ -30,6 +30,13 @@ I am available for private smart contract security audits, testing, Research and
 - [Pallet Slueth](https://github.com/ihtisham-sudo/ZeroSkills/blob/main/pallet_sleuth.md) for finding High, Medium level vulnerabilities in Polkadot Subtrate Based Contracts
 - [CantonGuard](https://github.com/ihtisham-sudo/cantonGuard) for finding vulnerabilities in DAML Smart Contracts (Canton Network Blockchain)
 
+## AI Audit Triage
+
+| Project | Protocol Type | Platform | Language | Total Issues | Accuracy |
+|:---|:---|:---|:---|:---|:---|
+| UnDisclosed | MEV Programs | Pashov Audit Group | Rust | 60 | 93.5% |
+| UnDisclosed | Bridge | Pashov Audit Group | Rust | 100 | 96% |
+
 ## Notable Audit Contests & Engagements
 
 | Project | Protocol Type | Platform | Language | Result | Links |
