@@ -25,6 +25,10 @@ I am available for private smart contract security audits, testing, Research and
 | --- | --- | --- | --- | --- | --- |
 | [Plether](https://plether.com/) | Perp Dex | Solidity | 2H, 7M, 1L, 18 Info | [Report](https://github.com/SCAuditStudio/PublicSecurityReports/blob/main/Plether%20Pre%20Audit%20Report.pdf) | [SC Audit Studio](https://scauditstudio.com/) |
 
+## Security AI Agent Skills
+
+- [Pallet Slueth](https://github.com/ihtisham-sudo/ZeroSkills/blob/main/pallet_sleuth.md) for finding High, Medium level vulnerabilities in Polkadot Subtrate Based Contracts
+- [CantonGuard](https://github.com/ihtisham-sudo/cantonGuard) for finding vulnerabilities in DAML Smart Contracts (Canton Network Blockchain)
 
 ## Notable Audit Contests & Engagements
 
