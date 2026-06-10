@@ -36,6 +36,8 @@ I am available for private smart contract security audits, testing, Research and
 |:---|:---|:---|:---|:---|:---|
 | UnDisclosed | MEV Programs | Pashov Audit Group | Rust | 60 | 93.5% |
 | UnDisclosed | Bridge | Pashov Audit Group | Rust | 100 | 96% |
+| UnDisclosed | Bridge | Pashov Audit Group | Rust | 100 | 97% |
+
 
 ## Notable Audit Contests & Engagements
 
