@@ -1,4 +1,4 @@
-# IhtishamSudo - Smart Contract Security Auditor & OpSec Researcher
+# IhtishamSudo - Smart Contract Security Auditor & Researcher
 
 I'm an independent Smart Contract Security Researcher and Auditor, dedicated to identifying vulnerabilities in decentralized applications and conducting in-depth analyses of EVM protocols. My expertise spans across Solidity and Rust, with a deep understanding of the EVM ecosystem. I specialize in auditing logic-heavy protocols, cross-chain systems, staking mechanisms, and various DeFi primitives, while also actively researching their core algorithms, designs, governance, timelocks, and multisig mechanisms.
 
@@ -17,7 +17,7 @@ I am available for private smart contract security audits, testing, Research and
 | [c8ntinuum](https://c8ntinuum.com/) | Bridge | Solidity | 1M, 3L | [Report](https://github.com/ihtisham-sudo/private-audit-reports/blob/main/reports/c8ntinuumBridgeSol.pdf) | Solo |
 | [Multipli-MultToken](https://github.com/multipli-libs) | CCIP Token | Solidity | 1H, 1M, 2L, 3 Info | [Pending]() | [Shieldify](https://shieldify.org) |
 | [ETH STrategy](https://github.com/ethstrat) | Autonomous Treasury | Solidity | 1H, 5M, 2L, 4 Info | [Pending]() | [BailSec](https://bailsec.io/) |
-| [Colbx Finance]() | Escrow, EIP712 | Solidity | Soon | [Pending]() | [Shieldify](https://shieldify.org) |
+| [Colbx Finance]() | Escrow, EIP712 | Solidity | 2M, 8L, 3 Info | [Pending]() | [Shieldify](https://shieldify.org) |
 | [Catalyst (Li.Fi)](https://github.com/catalystsystem) | Intent Based Bridge | Rust | 2M, 7L | [Pending]() | [Pashov Audit Group](https://www.pashov.com/) |
 
 ## Pre Audits 
