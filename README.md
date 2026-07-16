@@ -20,6 +20,7 @@ I am available for private smart contract security audits, testing, Research and
 | [Colbx Finance]() | Escrow, EIP712 | Solidity | 2M, 8L, 3 Info | [Pending]() | [Shieldify](https://shieldify.org) |
 | [Catalyst (Li.Fi)](https://github.com/catalystsystem) | Intent Based Bridge | Rust | 2M, 7L | [Pending]() | [Pashov Audit Group](https://www.pashov.com/) |
 | [Paxos](https://github.com/paxoslabs) | Vault | Solidity | 2L | [Pending]() | [Pashov Audit Group](https://www.pashov.com/) |
+| [Centrifuge](https://centrifuge.io/) | Cross-chain | Solidity | In Progress | [Pending]() | [BurraSec](https://www.burrasec.com/) |
 
 ## Pre Audits 
 | Project | Protocol Type | Language | Findings | Report Link | Review |
