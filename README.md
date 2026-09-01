@@ -20,7 +20,11 @@ I am available for private smart contract security audits, testing, Research and
 | [Colbx Finance]() | Escrow, EIP712 | Solidity | 2M, 8L, 3 Info | [Pending]() | [Shieldify](https://shieldify.org) |
 | [Catalyst (Li.Fi)](https://github.com/catalystsystem) | Intent Based Bridge | Rust | 2M, 7L | [Pending]() | [Pashov Audit Group](https://www.pashov.com/) |
 | [Paxos](https://github.com/paxoslabs) | Vault | Solidity | 2L | [Pending]() | [Pashov Audit Group](https://www.pashov.com/) |
-| [Centrifuge](https://centrifuge.io/) | Cross-chain | Solidity | In Progress | [Pending]() | [BurraSec](https://www.burrasec.com/) |
+| [Centrifuge](https://centrifuge.io/) | Cross-chain | Solidity | 1H, 1M, 2L, 2I | [Pending]() | [BurraSec](https://www.burrasec.com/) |
+| [LayerV](https://www.layerv.com/) | Options | Solidity | Soon TM | [Pending]() | [BailSec](https://bailsec.io/) |
+| [Buoy](https://buoy.finance/) | Copy Trading | Solidity | Soon TM | [Pending]() | [Shieldify](https://shieldify.org) |
+| [Ambient](https://ambient.xyz/) | On-chain Ai Inference | Rust | Soon TM | [Pending]() | [Blockapex](https://blockapex.io/) |
+
 
 ## Pre Audits 
 | Project | Protocol Type | Language | Findings | Report Link | Review |
@@ -34,13 +38,23 @@ I am available for private smart contract security audits, testing, Research and
 
 ## Audit Triage
 
-| Project | Protocol Type | Platform | Language | Total Issues | Accuracy |
-|:---|:---|:---|:---|:---|:---|
-| Jito | MEV Programs | Pashov Audit Group | Rust | 60 | 93.5% |
-| LayerZero | Bridge | Pashov Audit Group | Rust | 100 | 96% |
-| Near Intents | Bridge | Pashov Audit Group | Rust | 100 | 97% |
-| Stader ETHx | Staking | Pashov Audit Group | Solidity | 100 | 96% |
-| ListaDao | Staking | Pashov Audit Group | Solidity | 100 | 98% |
+Are triage are engagements where I triaged Issues as a Judge! 
+
+| Project      | Protocol Type        | Platform           | Language | Total Issues |
+| :----------- | :------------------- | :----------------- | :------- | :----------- |
+| Jito         | MEV Programs         | Pashov Audit Group | Rust     | 60           |
+| LayerZero    | Bridge               | Pashov Audit Group | Rust     | 100          |
+| Near Intents | Bridge               | Pashov Audit Group | Rust     | 100          |
+| Stader ETHx  | Staking              | Pashov Audit Group | Solidity | 100          |
+| ListaDao     | Staking              | Pashov Audit Group | Solidity | 100          |
+| RAAC 2       | Lending/RWA          | Pashov Audit Group | Solidity | 271          |
+| RAAC 3       | Lending/RWA          | Pashov Audit Group | Solidity | 196          |
+| Arrakis      | Liquidity Management | Pashov Audit Group | Solidity | 93           |
+| Pons         | Launchpad            | Pashov Audit Group | Solidity | 140          |
+| Li.Fi        | Crosschain           | Pashov Audit Group | Rust     | 207          |
+| Paxos        | Tokenized Infra      | Pashov Audit Group | Solidity | 67           |
+| Li.Fi 2      | Crosschain           | Pashov Audit Group | Rust     | 72           |
+
 
 
 ## Notable Audit Contests & Engagements
