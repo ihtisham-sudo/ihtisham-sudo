@@ -22,7 +22,7 @@ I am available for private smart contract security audits, testing, Research and
 | [Paxos](https://github.com/paxoslabs) | Vault | Solidity | 2L | [Pending]() | [Pashov Audit Group](https://www.pashov.com/) |
 | [Centrifuge](https://centrifuge.io/) | Cross-chain | Solidity | 1H, 1M, 2L, 2I | [Pending]() | [BurraSec](https://www.burrasec.com/) |
 | [LayerV](https://www.layerv.com/) | Options | Solidity | Soon TM | [Pending]() | [BailSec](https://bailsec.io/) |
-| [Buoy](https://buoy.finance/) | Copy Trading | Solidity | Soon TM | [Pending]() | [Shieldify](https://shieldify.org) |
+| [Buoy](https://buoy.finance/) | Copy Trading | Solidity | 5M, 4L | [Pending]() | [Shieldify](https://shieldify.org) |
 | [Ambient](https://ambient.xyz/) | On-chain Ai Inference | Rust | Soon TM | [Pending]() | [Blockapex](https://blockapex.io/) |
 
 
