@@ -56,6 +56,7 @@ Engagements where I triaged Issues as a Judge!
 | Li.Fi 2      | Crosschain           | Pashov Audit Group | Rust     | 72           |
 | RAAC 4       | Lending/RWA          | Pashov Audit Group | Solidity | 370          |
 | Saturn Labs  | Yield                | Pashov Audit Group | Solidity | 112          |
+| Ostium       | Perps                | Pashov Audit Group | Solidity | 88           |
 
 
 
