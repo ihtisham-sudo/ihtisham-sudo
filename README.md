@@ -38,7 +38,7 @@ I am available for private smart contract security audits, testing, Research and
 
 ## Audit Triage
 
-Are triage are engagements where I triaged Issues as a Judge! 
+Engagements where I triaged Issues as a Judge! 
 
 | Project      | Protocol Type        | Platform           | Language | Total Issues |
 | :----------- | :------------------- | :----------------- | :------- | :----------- |
@@ -54,6 +54,8 @@ Are triage are engagements where I triaged Issues as a Judge!
 | Li.Fi        | Crosschain           | Pashov Audit Group | Rust     | 207          |
 | Paxos        | Tokenized Infra      | Pashov Audit Group | Solidity | 67           |
 | Li.Fi 2      | Crosschain           | Pashov Audit Group | Rust     | 72           |
+| RAAC 4       | Lending/RWA          | Pashov Audit Group | Solidity | 370          |
+| Saturn Labs  | Yield                | Pashov Audit Group | Solidity | 112          |
 
 
 
